@@ -11,7 +11,7 @@ class Phone {
     }
 
     public final void ring() {
-        System.out.println("Phone is ringing.......");
+        System.out.println("Phone is ringing........");
     }
 }
 
